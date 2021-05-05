@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+.header {
+    height: 5rem;
+    background-color: rgb(51, 97, 150);
+    margin-bottom: 2rem;
+    display: flex;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 5rem;
+    margin-bottom: 2rem;
+}
+
+p {
+    text-align: center;
+    font-size: 2rem;
+    color: darkblue;
+}
